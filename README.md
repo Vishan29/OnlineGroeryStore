@@ -33,5 +33,3 @@ Orders
 Explaination: The customer’s identity , address, payment method, items/orders placed, total price of the orders and delivery status is shown over here.
 7. Messages
 Explaination: The customers feedback along with his/her information can be noted and stored after one click of Send Message. This can be used to improve customer service.
- 
- Github link:
